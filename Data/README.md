@@ -1,0 +1,1 @@
+If you want to use the data we used, you can get the tweets_id.txt file and use the libraries twython or tweepy to download the tweets from the Twitter API. You can extract the 'id' field to match the tweets to the used tweets in this study.
